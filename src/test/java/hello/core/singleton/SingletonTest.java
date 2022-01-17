@@ -45,4 +45,5 @@ public class SingletonTest {
 
         singletonService1.logic();
     }
+
 }
